@@ -7,7 +7,6 @@ This project focuses on analyzing road accident data using **Power BI** for inte
 - **Power BI Dashboard:** Provides insightful visualizations to identify patterns and trends in road accidents.
 - **SQL Queries:** Ensures data accuracy and validates the insights from Power BI.
 - **Documentation:** Includes detailed steps, SQL queries, outputs, and Power BI screenshots in a PDF document.
-  [Documentation](./documentation/report.pdf)
 
 ---
 
@@ -34,6 +33,8 @@ This project focuses on analyzing road accident data using **Power BI** for inte
      - Power BI dashboard screenshots.
      - Key findings and explanations.
    - Converted the document into a PDF for easy sharing.
+   -   [Documentation](./documentation/report.pdf)
+
 
 ---
 
