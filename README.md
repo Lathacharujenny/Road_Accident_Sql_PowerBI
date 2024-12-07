@@ -39,7 +39,7 @@ This project focuses on analyzing road accident data using **Power BI** for inte
   ![Power BI Dashboard Screenshot](powerbi_dashboard.png)
 
 - **Documentation (PDF):**
-  [Download Documentation](./documentation/Road Accidents Sql, PowerBI'.pdf)
+  [Download Documentation](./documentation/report.pdf)
 
 ---
 
