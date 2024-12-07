@@ -11,7 +11,8 @@ This project focuses on analyzing road accident data using **Power BI** for inte
 ---
 
 ## Power BI Dashboard
-<img src="./dashboard/powerbi_dashboard.png" alt="Power BI Dashboard Screenshot" width="800">  
+![powerbi_dashboard](https://github.com/user-attachments/assets/2deb57eb-1883-4fee-846d-f6852bcc9125)
+
 
 *This dashboard showcases key metrics and trends in road accidents, such as accident frequency, severity levels, and contributing factors.*
 
@@ -37,7 +38,8 @@ This project focuses on analyzing road accident data using **Power BI** for inte
 
 ## Files and Links
 - **Power BI Dashboard Screenshot:**
-  <img src="./dashboard/powerbi_dashboard.png" alt="Power BI Dashboard Screenshot" width="800"> 
+  ![powerbi_dashboard](https://github.com/user-attachments/assets/1b34030e-d77e-4df9-a48e-d6656236853c)
+
 
 - **Documentation (PDF):**
   [Documentation](./documentation/report.pdf)
